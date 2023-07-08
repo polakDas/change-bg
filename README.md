@@ -1,4 +1,3 @@
 # Change Webpage Background Color
 
-Chrome Extension for change the background color
-This is the first chrome extension that I ever made. Very basic extension.
+A simple chrome extension for changing a webpage background color. It is useful for these who are uncomfortable with high brightness. 
